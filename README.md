@@ -1,1 +1,1 @@
-# Term-Deposit-Subscription-Prediction
+# Term_Deposit_Predict
